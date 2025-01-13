@@ -39,7 +39,7 @@ Debe tener instalado Python en su computadora. Puede descargarlo desde el siguie
   ```sh
   python manage.py main.py
   ```
-## Configuración de las credenciales de OAuth2 [Client ID y Client Secret key]
+## Acceso a los modelos de inteligencia artificial
 
 ### Modelo de Diarización de Audio
 * pyannote/speaker-diarization-3.1: <a href="https://github.com/pyannote/pyannote-audio?tab=readme-ov-file">https://github.com/pyannote/pyannote-audio?tab=readme-ov-file</a>
